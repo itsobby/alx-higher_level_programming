@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-# 4-append_write.py
 
 """Defines a file-appending function."""
 

@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-# 101-stats.py
 
 """Reads from standard input and computes metrics.
 
